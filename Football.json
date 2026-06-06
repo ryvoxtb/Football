@@ -10,13 +10,13 @@
     },
     "match_type": "Group Stage",
     "date": {
-      "day": "12",
+      "day": "11",
       "month": "06",
       "year": "2026"
     },
-    "time": "01:00 AM (BST)",
-    "venue": "Estadio Azteca, Mexico City",
-    "tv_channels": ["T Sports", "Toffee", "FOX Sports", "Sony Sports"]
+    "time": "03:00 PM (Local) / 01:00 AM (BST)",
+    "venue": "Estadio Azteca, Mexico City, Mexico",
+    "tv_channels": ["FOX Sports", "Telemundo", "T Sports", "Toffee", "Sony Sports Network"]
   },
   {
     "match_id": 2,
@@ -24,18 +24,18 @@
     "teams": {
       "team_1": "South Korea",
       "team_1_code": "KR",
-      "team_2": "Czechia",
+      "team_2": "Czech Republic",
       "team_2_code": "CZ"
     },
     "match_type": "Group Stage",
     "date": {
-      "day": "12",
+      "day": "11",
       "month": "06",
       "year": "2026"
     },
-    "time": "08:00 AM (BST)",
-    "venue": "Guadalajara Stadium, Guadalajara",
-    "tv_channels": ["T Sports", "Toffee", "FOX Sports", "Sony Sports"]
+    "time": "10:00 PM (ET)",
+    "venue": "Guadalajara Stadium, Guadalajara, Mexico",
+    "tv_channels": ["FS1", "T Sports", "Sony Sports Network"]
   },
   {
     "match_id": 3,
@@ -48,13 +48,13 @@
     },
     "match_type": "Group Stage",
     "date": {
-      "day": "13",
+      "day": "12",
       "month": "06",
       "year": "2026"
     },
-    "time": "01:00 AM (BST)",
-    "venue": "Toronto Stadium, Toronto",
-    "tv_channels": ["T Sports", "Toffee", "FOX Sports"]
+    "time": "03:00 PM (Local) / 01:00 AM (BST)",
+    "venue": "BMO Field, Toronto, Canada",
+    "tv_channels": ["CTV", "TSN", "FOX Sports", "T Sports"]
   },
   {
     "match_id": 4,
@@ -67,16 +67,35 @@
     },
     "match_type": "Group Stage",
     "date": {
+      "day": "12",
+      "month": "06",
+      "year": "2026"
+    },
+    "time": "09:00 PM (ET)",
+    "venue": "SoFi Stadium, Los Angeles, USA",
+    "tv_channels": ["FOX Sports", "Tubi", "T Sports", "Sony Sports Network"]
+  },
+  {
+    "match_id": 5,
+    "series_name": "FIFA World Cup 2026",
+    "teams": {
+      "team_1": "Qatar",
+      "team_1_code": "QA",
+      "team_2": "Switzerland",
+      "team_2_code": "CH"
+    },
+    "match_type": "Group Stage",
+    "date": {
       "day": "13",
       "month": "06",
       "year": "2026"
     },
-    "time": "07:00 AM (BST)",
-    "venue": "Los Angeles Stadium, Los Angeles",
-    "tv_channels": ["T Sports", "Toffee", "FOX Sports"]
+    "time": "03:00 PM (ET)",
+    "venue": "Levi's Stadium, San Francisco Bay, USA",
+    "tv_channels": ["FOX Sports", "T Sports", "Sony Sports Network"]
   },
   {
-    "match_id": 5,
+    "match_id": 6,
     "series_name": "FIFA World Cup 2026",
     "teams": {
       "team_1": "Brazil",
@@ -86,16 +105,54 @@
     },
     "match_type": "Group Stage",
     "date": {
-      "day": "14",
+      "day": "13",
       "month": "06",
       "year": "2026"
     },
-    "time": "04:00 AM (BST)",
-    "venue": "MetLife Stadium, East Rutherford",
-    "tv_channels": ["T Sports", "Toffee", "Sony Sports"]
+    "time": "06:00 PM (ET)",
+    "venue": "Gillette Stadium, Boston, USA",
+    "tv_channels": ["FOX Sports", "Telemundo", "T Sports", "Sony Sports Network"]
   },
   {
-    "match_id": 6,
+    "match_id": 7,
+    "series_name": "FIFA World Cup 2026",
+    "teams": {
+      "team_1": "Haiti",
+      "team_1_code": "HT",
+      "team_2": "Scotland",
+      "team_2_code": "SCO"
+    },
+    "match_type": "Group Stage",
+    "date": {
+      "day": "13",
+      "month": "06",
+      "year": "2026"
+    },
+    "time": "09:00 PM (ET)",
+    "venue": "Gillette Stadium, Boston, USA",
+    "tv_channels": ["FOX Sports", "T Sports", "Sony Sports Network"]
+  },
+  {
+    "match_id": 8,
+    "series_name": "FIFA World Cup 2026",
+    "teams": {
+      "team_1": "Australia",
+      "team_1_code": "AU",
+      "team_2": "Turkey",
+      "team_2_code": "TR"
+    },
+    "match_type": "Group Stage",
+    "date": {
+      "day": "13",
+      "month": "06",
+      "year": "2026"
+    },
+    "time": "12:00 AM (ET - June 14) / 09:00 PM (Local)",
+    "venue": "BC Place, Vancouver, Canada",
+    "tv_channels": ["FOX Sports", "T Sports", "Sony Sports Network"]
+  },
+  {
+    "match_id": 9,
     "series_name": "FIFA World Cup 2026",
     "teams": {
       "team_1": "Germany",
@@ -105,126 +162,126 @@
     },
     "match_type": "Group Stage",
     "date": {
+      "day": "14",
+      "month": "06",
+      "year": "2026"
+    },
+    "time": "04:00 PM (ET)",
+    "venue": "Houston Stadium, Houston, USA",
+    "tv_channels": ["FOX Sports", "T Sports", "Sony Sports Network"]
+  },
+  {
+    "match_id": 10,
+    "series_name": "FIFA World Cup 2026",
+    "teams": {
+      "team_1": "Netherlands",
+      "team_1_code": "NL",
+      "team_2": "Japan",
+      "team_2_code": "JP"
+    },
+    "match_type": "Group Stage",
+    "date": {
+      "day": "14",
+      "month": "06",
+      "year": "2026"
+    },
+    "time": "04:00 PM (ET)",
+    "venue": "Dallas Stadium, Arlington, USA",
+    "tv_channels": ["FOX Sports", "T Sports", "Sony Sports Network"]
+  },
+  {
+    "match_id": 11,
+    "series_name": "FIFA World Cup 2026",
+    "teams": {
+      "team_1": "Spain",
+      "team_1_code": "ES",
+      "team_2": "Cape Verde",
+      "team_2_code": "CV"
+    },
+    "match_type": "Group Stage",
+    "date": {
       "day": "15",
       "month": "06",
       "year": "2026"
     },
-    "time": "01:00 AM (BST)",
-    "venue": "Houston Stadium, Houston",
-    "tv_channels": ["T Sports", "Toffee", "Sony Sports"]
+    "time": "06:00 PM (ET)",
+    "venue": "Atlanta Stadium, Atlanta, USA",
+    "tv_channels": ["FOX Sports", "T Sports", "Sony Sports Network"]
   },
   {
-    "match_id": 7,
+    "match_id": 12,
     "series_name": "FIFA World Cup 2026",
     "teams": {
       "team_1": "Argentina",
       "team_1_code": "AR",
-      "team_2": "Austria",
-      "team_2_code": "AT"
+      "team_2": "Algeria",
+      "team_2_code": "DZ"
     },
     "match_type": "Group Stage",
     "date": {
-      "day": "22",
+      "day": "16",
       "month": "06",
       "year": "2026"
     },
-    "time": "11:00 PM (BST)",
-    "venue": "Dallas Stadium, Arlington",
-    "tv_channels": ["T Sports", "Toffee", "Sony Sports"]
+    "time": "03:00 PM (Local)",
+    "venue": "Dallas Stadium, Arlington, USA",
+    "tv_channels": ["FOX Sports", "T Sports", "Sony Sports Network"]
   },
   {
-    "match_id": 8,
+    "match_id": 13,
     "series_name": "FIFA World Cup 2026",
     "teams": {
-      "team_1": "Finalist 1",
-      "team_1_code": "TBD",
-      "team_2": "Finalist 2",
-      "team_2_code": "TBD"
+      "team_1": "France",
+      "team_1_code": "FR",
+      "team_2": "Senegal",
+      "team_2_code": "SN"
     },
-    "match_type": "Final",
+    "match_type": "Group Stage",
     "date": {
-      "day": "20",
-      "month": "07",
+      "day": "16",
+      "month": "06",
       "year": "2026"
     },
-    "time": "01:00 AM (BST)",
-    "venue": "MetLife Stadium, East Rutherford",
-    "tv_channels": ["T Sports", "Toffee", "Sony Sports"]
+    "time": "03:00 PM (ET)",
+    "venue": "New York New Jersey Stadium, East Rutherford, USA",
+    "tv_channels": ["FOX Sports", "T Sports", "Sony Sports Network"]
   },
   {
-    "match_id": 9,
-    "series_name": "UEFA Nations League 2026-27",
+    "match_id": 14,
+    "series_name": "FIFA World Cup 2026",
     "teams": {
-      "team_1": "Italy",
-      "team_1_code": "IT",
-      "team_2": "France",
-      "team_2_code": "FR"
+      "team_1": "England",
+      "team_1_code": "ENG",
+      "team_2": "Croatia",
+      "team_2_code": "HR"
     },
-    "match_type": "League Phase",
+    "match_type": "Group Stage",
     "date": {
-      "day": "25",
-      "month": "09",
+      "day": "17",
+      "month": "06",
       "year": "2026"
     },
-    "time": "12:45 AM (BST)",
-    "venue": "San Siro, Milan",
-    "tv_channels": ["Sony Sports", "UEFA.tv"]
+    "time": "03:00 PM (CT)",
+    "venue": "Dallas Stadium, Arlington, USA",
+    "tv_channels": ["FOX Sports", "ITV", "T Sports", "Sony Sports Network"]
   },
   {
-    "match_id": 10,
-    "series_name": "UEFA Nations League 2026-27",
-    "teams": {
-      "team_1": "Germany",
-      "team_1_code": "DE",
-      "team_2": "Netherlands",
-      "team_2_code": "NL"
-    },
-    "match_type": "League Phase",
-    "date": {
-      "day": "27",
-      "month": "09",
-      "year": "2026"
-    },
-    "time": "12:45 AM (BST)",
-    "venue": "Allianz Arena, Munich",
-    "tv_channels": ["Sony Sports", "UEFA.tv"]
-  },
-  {
-    "match_id": 11,
-    "series_name": "UEFA Nations League 2026-27",
+    "match_id": 15,
+    "series_name": "FIFA World Cup 2026",
     "teams": {
       "team_1": "Portugal",
       "team_1_code": "PT",
-      "team_2": "Italy",
-      "team_2_code": "IT"
+      "team_2": "DR Congo",
+      "team_2_code": "CD"
     },
-    "match_type": "Quarter-Final",
+    "match_type": "Group Stage",
     "date": {
-      "day": "25",
-      "month": "03",
-      "year": "2027"
-    },
-    "time": "12:45 AM (BST)",
-    "venue": "Estádio da Luz, Lisbon",
-    "tv_channels": ["Sony Sports", "UEFA.tv"]
-  },
-  {
-    "match_id": 12,
-    "series_name": "UEFA Nations League 2026-27",
-    "teams": {
-      "team_1": "Spain",
-      "team_1_code": "ES",
-      "team_2": "France",
-      "team_2_code": "FR"
-    },
-    "match_type": "Final",
-    "date": {
-      "day": "13",
+      "day": "17",
       "month": "06",
-      "year": "2027"
+      "year": "2026"
     },
-    "time": "12:45 AM (BST)",
-    "venue": "Allianz Arena, Munich",
-    "tv_channels": ["Sony Sports", "UEFA.tv"]
+    "time": "06:00 PM (ET)",
+    "venue": "San Francisco Bay Stadium, Santa Clara, USA",
+    "tv_channels": ["FOX Sports", "T Sports", "Sony Sports Network"]
   }
 ]
