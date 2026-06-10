@@ -4,1367 +4,189 @@
     "series_name": "FIFA World Cup 2026",
     "teams": {
       "team_1": "Mexico",
-      "team_1_code": "MEX",
+      "team_1_code": "MX",
       "team_2": "South Africa",
-      "team_2_code": "RSA"
+      "team_2_code": "ZA"
     },
-    "match_type": "Group Stage (Group A)",
+    "match_type": "Group Stage",
     "date": {
       "day": "12",
       "month": "06",
       "year": "2026"
     },
-    "time": "12:30 AM",
+    "time": "01:00 AM (BST)",
     "venue": "Estadio Azteca, Mexico City",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
+    "tv_channels": ["T Sports", "BTV", "Somoy TV", "Toffee", "Bioscope"]
   },
   {
     "match_id": 2,
     "series_name": "FIFA World Cup 2026",
     "teams": {
       "team_1": "South Korea",
-      "team_1_code": "KOR",
+      "team_1_code": "KR",
       "team_2": "Czechia",
-      "team_2_code": "CZE"
+      "team_2_code": "CZ"
     },
-    "match_type": "Group Stage (Group A)",
+    "match_type": "Group Stage",
     "date": {
       "day": "12",
       "month": "06",
       "year": "2026"
     },
-    "time": "07:30 AM",
-    "venue": "Estadio Akron, Guadalajara",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
+    "time": "06:00 AM (BST)",
+    "venue": "Estadio Guadalajara, Guadalajara",
+    "tv_channels": ["T Sports", "BTV", "Somoy TV", "Toffee", "Bioscope"]
   },
   {
     "match_id": 3,
     "series_name": "FIFA World Cup 2026",
     "teams": {
       "team_1": "Canada",
-      "team_1_code": "CAN",
+      "team_1_code": "CA",
       "team_2": "Bosnia and Herzegovina",
-      "team_2_code": "BIH"
+      "team_2_code": "BA"
     },
-    "match_type": "Group Stage (Group B)",
+    "match_type": "Group Stage",
     "date": {
       "day": "13",
       "month": "06",
       "year": "2026"
     },
-    "time": "12:30 AM",
-    "venue": "BMO Field, Toronto",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
+    "time": "01:00 AM (BST)",
+    "venue": "Toronto Stadium, Toronto",
+    "tv_channels": ["T Sports", "BTV", "Somoy TV", "Toffee", "Bioscope"]
   },
   {
     "match_id": 4,
     "series_name": "FIFA World Cup 2026",
     "teams": {
-      "team_1": "USA",
-      "team_1_code": "USA",
+      "team_1": "United States",
+      "team_1_code": "US",
       "team_2": "Paraguay",
-      "team_2_code": "PAR"
+      "team_2_code": "PY"
     },
-    "match_type": "Group Stage (Group D)",
+    "match_type": "Group Stage",
     "date": {
       "day": "13",
       "month": "06",
       "year": "2026"
     },
-    "time": "06:30 AM",
-    "venue": "SoFi Stadium, Los Angeles",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
+    "time": "07:00 AM (BST)",
+    "venue": "Los Angeles Stadium, Los Angeles",
+    "tv_channels": ["T Sports", "BTV", "Somoy TV", "Toffee", "Bioscope"]
   },
   {
     "match_id": 5,
     "series_name": "FIFA World Cup 2026",
     "teams": {
       "team_1": "Qatar",
-      "team_1_code": "QAT",
+      "team_1_code": "QA",
       "team_2": "Switzerland",
-      "team_2_code": "SUI"
+      "team_2_code": "CH"
     },
-    "match_type": "Group Stage (Group B)",
+    "match_type": "Group Stage",
     "date": {
-      "day": "13",
+      "day": "14",
       "month": "06",
       "year": "2026"
     },
-    "time": "09:30 PM",
-    "venue": "Levi's Stadium, Santa Clara",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
+    "time": "01:00 AM (BST)",
+    "venue": "San Francisco Bay Area Stadium, Santa Clara",
+    "tv_channels": ["T Sports", "BTV", "Somoy TV", "Toffee", "Bioscope"]
   },
   {
     "match_id": 6,
     "series_name": "FIFA World Cup 2026",
     "teams": {
       "team_1": "Brazil",
-      "team_1_code": "BRA",
+      "team_1_code": "BR",
       "team_2": "Morocco",
-      "team_2_code": "MAR"
+      "team_2_code": "MA"
     },
-    "match_type": "Group Stage (Group C)",
+    "match_type": "Group Stage",
     "date": {
       "day": "14",
       "month": "06",
       "year": "2026"
     },
-    "time": "12:30 AM",
-    "venue": "MetLife Stadium, New Jersey",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
+    "time": "02:00 AM (BST)",
+    "venue": "New York/New Jersey Stadium, East Rutherford",
+    "tv_channels": ["T Sports", "BTV", "Somoy TV", "Toffee", "Bioscope"]
   },
   {
     "match_id": 7,
     "series_name": "FIFA World Cup 2026",
     "teams": {
-      "team_1": "Haiti",
-      "team_1_code": "HAI",
-      "team_2": "Scotland",
-      "team_2_code": "SCO"
+      "team_1": "Germany",
+      "team_1_code": "DE",
+      "team_2": "Curaçao",
+      "team_2_code": "CW"
     },
-    "match_type": "Group Stage (Group C)",
+    "match_type": "Group Stage",
     "date": {
       "day": "14",
       "month": "06",
       "year": "2026"
     },
-    "time": "03:30 AM",
-    "venue": "Gillette Stadium, Foxborough",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
+    "time": "11:00 PM (BST)",
+    "venue": "NRG Stadium, Houston",
+    "tv_channels": ["T Sports", "BTV", "Somoy TV", "Toffee", "Bioscope"]
   },
   {
     "match_id": 8,
     "series_name": "FIFA World Cup 2026",
     "teams": {
-      "team_1": "Australia",
-      "team_1_code": "AUS",
-      "team_2": "Turkey",
-      "team_2_code": "TUR"
+      "team_1": "Netherlands",
+      "team_1_code": "NL",
+      "team_2": "Japan",
+      "team_2_code": "JP"
     },
-    "match_type": "Group Stage (Group D)",
+    "match_type": "Group Stage",
     "date": {
-      "day": "14",
+      "day": "15",
       "month": "06",
       "year": "2026"
     },
-    "time": "09:30 AM",
-    "venue": "BC Place, Vancouver",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
+    "time": "02:00 AM (BST)",
+    "venue": "AT&T Stadium, Arlington",
+    "tv_channels": ["T Sports", "BTV", "Somoy TV", "Toffee", "Bioscope"]
   },
   {
     "match_id": 9,
     "series_name": "FIFA World Cup 2026",
     "teams": {
-      "team_1": "Germany",
-      "team_1_code": "GER",
-      "team_2": "Curacao",
-      "team_2_code": "CUW"
+      "team_1": "England",
+      "team_1_code": "ENG",
+      "team_2": "Croatia",
+      "team_2_code": "HR"
     },
-    "match_type": "Group Stage (Group E)",
+    "match_type": "Group Stage",
     "date": {
-      "day": "14",
+      "day": "18",
       "month": "06",
       "year": "2026"
     },
-    "time": "10:30 PM",
-    "venue": "NRG Stadium, Houston",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
+    "time": "02:00 AM (BST)",
+    "venue": "AT&T Stadium, Arlington",
+    "tv_channels": ["T Sports", "BTV", "Somoy TV", "Toffee", "Bioscope"]
   },
   {
     "match_id": 10,
     "series_name": "FIFA World Cup 2026",
     "teams": {
-      "team_1": "Netherlands",
-      "team_1_code": "NED",
-      "team_2": "Japan",
-      "team_2_code": "JPN"
-    },
-    "match_type": "Group Stage (Group F)",
-    "date": {
-      "day": "15",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "01:30 AM",
-    "venue": "AT&T Stadium, Arlington",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 11,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Ivory Coast",
-      "team_1_code": "CIV",
-      "team_2": "Ecuador",
-      "team_2_code": "ECU"
-    },
-    "match_type": "Group Stage (Group E)",
-    "date": {
-      "day": "15",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "04:30 AM",
-    "venue": "Lincoln Financial Field, Philadelphia",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 12,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Sweden",
-      "team_1_code": "SWE",
-      "team_2": "Tunisia",
-      "team_2_code": "TUN"
-    },
-    "match_type": "Group Stage (Group F)",
-    "date": {
-      "day": "15",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "07:30 AM",
-    "venue": "Estadio BBVA, Monterrey",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 13,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Spain",
-      "team_1_code": "ESP",
-      "team_2": "Cape Verde",
-      "team_2_code": "CPV"
-    },
-    "match_type": "Group Stage (Group H)",
-    "date": {
-      "day": "15",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "09:30 PM",
-    "venue": "Mercedes-Benz Stadium, Atlanta",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 14,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Belgium",
-      "team_1_code": "BEL",
-      "team_2": "Egypt",
-      "team_2_code": "EGY"
-    },
-    "match_type": "Group Stage (Group G)",
-    "date": {
-      "day": "16",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "12:30 AM",
-    "venue": "Lumen Field, Seattle",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 15,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Saudi Arabia",
-      "team_1_code": "KSA",
-      "team_2": "Uruguay",
-      "team_2_code": "URU"
-    },
-    "match_type": "Group Stage (Group H)",
-    "date": {
-      "day": "16",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "03:30 AM",
-    "venue": "Hard Rock Stadium, Miami",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 16,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Iran",
-      "team_1_code": "IRN",
-      "team_2": "New Zealand",
-      "team_2_code": "NZL"
-    },
-    "match_type": "Group Stage (Group G)",
-    "date": {
-      "day": "16",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "06:30 AM",
-    "venue": "SoFi Stadium, Los Angeles",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 17,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "France",
-      "team_1_code": "FRA",
-      "team_2": "Senegal",
-      "team_2_code": "SEN"
-    },
-    "match_type": "Group Stage (Group I)",
-    "date": {
-      "day": "17",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "12:30 AM",
-    "venue": "MetLife Stadium, New Jersey",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 18,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Iraq",
-      "team_1_code": "IRQ",
-      "team_2": "Norway",
-      "team_2_code": "NOR"
-    },
-    "match_type": "Group Stage (Group I)",
-    "date": {
-      "day": "17",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "03:30 AM",
-    "venue": "Gillette Stadium, Foxborough",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 19,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
       "team_1": "Argentina",
-      "team_1_code": "ARG",
-      "team_2": "Algeria",
-      "team_2_code": "ALG"
-    },
-    "match_type": "Group Stage (Group J)",
-    "date": {
-      "day": "17",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "06:30 AM",
-    "venue": "Arrowhead Stadium, Kansas City",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 20,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Austria",
-      "team_1_code": "AUT",
-      "team_2": "Jordan",
-      "team_2_code": "JOR"
-    },
-    "match_type": "Group Stage (Group J)",
-    "date": {
-      "day": "17",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "09:30 AM",
-    "venue": "Levi's Stadium, Santa Clara",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 21,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Portugal",
-      "team_1_code": "POR",
-      "team_2": "DR Congo",
-      "team_2_code": "COD"
-    },
-    "match_type": "Group Stage (Group K)",
-    "date": {
-      "day": "17",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "10:30 PM",
-    "venue": "NRG Stadium, Houston",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 22,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "England",
-      "team_1_code": "ENG",
-      "team_2": "Croatia",
-      "team_2_code": "CRO"
-    },
-    "match_type": "Group Stage (Group L)",
-    "date": {
-      "day": "18",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "01:30 AM",
-    "venue": "AT&T Stadium, Arlington",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 23,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Ghana",
-      "team_1_code": "GHA",
-      "team_2": "Panama",
-      "team_2_code": "PAN"
-    },
-    "match_type": "Group Stage (Group L)",
-    "date": {
-      "day": "18",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "04:30 AM",
-    "venue": "BMO Field, Toronto",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 24,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Uzbekistan",
-      "team_1_code": "UZB",
-      "team_2": "Colombia",
-      "team_2_code": "COL"
-    },
-    "match_type": "Group Stage (Group K)",
-    "date": {
-      "day": "18",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "07:30 AM",
-    "venue": "Estadio Azteca, Mexico City",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 25,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Czechia",
-      "team_1_code": "CZE",
-      "team_2": "South Africa",
-      "team_2_code": "RSA"
-    },
-    "match_type": "Group Stage (Group A)",
-    "date": {
-      "day": "18",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "09:30 PM",
-    "venue": "Mercedes-Benz Stadium, Atlanta",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 26,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Switzerland",
-      "team_1_code": "SUI",
-      "team_2": "Bosnia and Herzegovina",
-      "team_2_code": "BIH"
-    },
-    "match_type": "Group Stage (Group B)",
-    "date": {
-      "day": "19",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "12:30 AM",
-    "venue": "SoFi Stadium, Los Angeles",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 27,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Canada",
-      "team_1_code": "CAN",
-      "team_2": "Qatar",
-      "team_2_code": "QAT"
-    },
-    "match_type": "Group Stage (Group B)",
-    "date": {
-      "day": "19",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "03:30 AM",
-    "venue": "BC Place, Vancouver",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 28,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Mexico",
-      "team_1_code": "MEX",
-      "team_2": "South Korea",
-      "team_2_code": "KOR"
-    },
-    "match_type": "Group Stage (Group A)",
-    "date": {
-      "day": "19",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "06:30 AM",
-    "venue": "Estadio Akron, Guadalajara",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 29,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "USA",
-      "team_1_code": "USA",
-      "team_2": "Australia",
-      "team_2_code": "AUS"
-    },
-    "match_type": "Group Stage (Group D)",
-    "date": {
-      "day": "20",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "12:30 AM",
-    "venue": "Lumen Field, Seattle",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 30,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Scotland",
-      "team_1_code": "SCO",
-      "team_2": "Morocco",
-      "team_2_code": "MAR"
-    },
-    "match_type": "Group Stage (Group C)",
-    "date": {
-      "day": "20",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "03:30 AM",
-    "venue": "Gillette Stadium, Foxborough",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 31,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Brazil",
-      "team_1_code": "BRA",
-      "team_2": "Haiti",
-      "team_2_code": "HAI"
-    },
-    "match_type": "Group Stage (Group C)",
-    "date": {
-      "day": "20",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "06:00 AM",
-    "venue": "Lincoln Financial Field, Philadelphia",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 32,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Turkey",
-      "team_1_code": "TUR",
-      "team_2": "Paraguay",
-      "team_2_code": "PAR"
-    },
-    "match_type": "Group Stage (Group D)",
-    "date": {
-      "day": "20",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "08:30 AM",
-    "venue": "Levi's Stadium, Santa Clara",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 33,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Netherlands",
-      "team_1_code": "NED",
-      "team_2": "Sweden",
-      "team_2_code": "SWE"
-    },
-    "match_type": "Group Stage (Group F)",
-    "date": {
-      "day": "20",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "10:30 PM",
-    "venue": "NRG Stadium, Houston",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 34,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Germany",
-      "team_1_code": "GER",
-      "team_2": "Ivory Coast",
-      "team_2_code": "CIV"
-    },
-    "match_type": "Group Stage (Group E)",
-    "date": {
-      "day": "21",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "01:30 AM",
-    "venue": "BMO Field, Toronto",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 35,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Ecuador",
-      "team_1_code": "ECU",
-      "team_2": "Curacao",
-      "team_2_code": "CUW"
-    },
-    "match_type": "Group Stage (Group E)",
-    "date": {
-      "day": "21",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "05:30 AM",
-    "venue": "Arrowhead Stadium, Kansas City",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 36,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Tunisia",
-      "team_1_code": "TUN",
-      "team_2": "Japan",
-      "team_2_code": "JPN"
-    },
-    "match_type": "Group Stage (Group F)",
-    "date": {
-      "day": "21",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "09:30 AM",
-    "venue": "Estadio BBVA, Monterrey",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 37,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Spain",
-      "team_1_code": "ESP",
-      "team_2": "Saudi Arabia",
-      "team_2_code": "KSA"
-    },
-    "match_type": "Group Stage (Group H)",
-    "date": {
-      "day": "21",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "09:30 PM",
-    "venue": "Mercedes-Benz Stadium, Atlanta",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 38,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Belgium",
-      "team_1_code": "BEL",
-      "team_2": "Iran",
-      "team_2_code": "IRN"
-    },
-    "match_type": "Group Stage (Group G)",
-    "date": {
-      "day": "22",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "12:30 AM",
-    "venue": "SoFi Stadium, Los Angeles",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 39,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Uruguay",
-      "team_1_code": "URU",
-      "team_2": "Cape Verde",
-      "team_2_code": "CPV"
-    },
-    "match_type": "Group Stage (Group H)",
-    "date": {
-      "day": "22",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "03:30 AM",
-    "venue": "Hard Rock Stadium, Miami",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 40,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "New Zealand",
-      "team_1_code": "NZL",
-      "team_2": "Egypt",
-      "team_2_code": "EGY"
-    },
-    "match_type": "Group Stage (Group G)",
-    "date": {
-      "day": "22",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "06:30 AM",
-    "venue": "BC Place, Vancouver",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 41,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Argentina",
-      "team_1_code": "ARG",
+      "team_1_code": "AR",
       "team_2": "Austria",
-      "team_2_code": "AUT"
+      "team_2_code": "AT"
     },
-    "match_type": "Group Stage (Group J)",
+    "match_type": "Group Stage",
     "date": {
       "day": "22",
       "month": "06",
       "year": "2026"
     },
-    "time": "10:30 PM",
+    "time": "11:00 PM (BST)",
     "venue": "AT&T Stadium, Arlington",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 42,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "France",
-      "team_1_code": "FRA",
-      "team_2": "Iraq",
-      "team_2_code": "IRQ"
-    },
-    "match_type": "Group Stage (Group I)",
-    "date": {
-      "day": "23",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "02:30 AM",
-    "venue": "Lincoln Financial Field, Philadelphia",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 43,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Norway",
-      "team_1_code": "NOR",
-      "team_2": "Senegal",
-      "team_2_code": "SEN"
-    },
-    "match_type": "Group Stage (Group I)",
-    "date": {
-      "day": "23",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "05:30 AM",
-    "venue": "BMO Field, Toronto",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 44,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Jordan",
-      "team_1_code": "JOR",
-      "team_2": "Algeria",
-      "team_2_code": "ALG"
-    },
-    "match_type": "Group Stage (Group J)",
-    "date": {
-      "day": "23",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "08:30 AM",
-    "venue": "Levi's Stadium, Santa Clara",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 45,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Portugal",
-      "team_1_code": "POR",
-      "team_2": "Uzbekistan",
-      "team_2_code": "UZB"
-    },
-    "match_type": "Group Stage (Group K)",
-    "date": {
-      "day": "23",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "10:30 PM",
-    "venue": "NRG Stadium, Houston",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 46,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "England",
-      "team_1_code": "ENG",
-      "team_2": "Ghana",
-      "team_2_code": "GHA"
-    },
-    "match_type": "Group Stage (Group L)",
-    "date": {
-      "day": "24",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "01:30 AM",
-    "venue": "Gillette Stadium, Foxborough",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 47,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Panama",
-      "team_1_code": "PAN",
-      "team_2": "Croatia",
-      "team_2_code": "CRO"
-    },
-    "match_type": "Group Stage (Group L)",
-    "date": {
-      "day": "24",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "04:30 AM",
-    "venue": "Gillette Stadium, Foxborough",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 48,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Colombia",
-      "team_1_code": "COL",
-      "team_2": "DR Congo",
-      "team_2_code": "COD"
-    },
-    "match_type": "Group Stage (Group K)",
-    "date": {
-      "day": "24",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "07:30 AM",
-    "venue": "Estadio Akron, Guadalajara",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 49,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Switzerland",
-      "team_1_code": "SUI",
-      "team_2": "Canada",
-      "team_2_code": "CAN"
-    },
-    "match_type": "Group Stage (Group B)",
-    "date": {
-      "day": "25",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "12:30 AM",
-    "venue": "BC Place, Vancouver",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 50,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Bosnia and Herzegovina",
-      "team_1_code": "BIH",
-      "team_2": "Qatar",
-      "team_2_code": "QAT"
-    },
-    "match_type": "Group Stage (Group B)",
-    "date": {
-      "day": "25",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "12:30 AM",
-    "venue": "Lumen Field, Seattle",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 51,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Morocco",
-      "team_1_code": "MAR",
-      "team_2": "Haiti",
-      "team_2_code": "HAI"
-    },
-    "match_type": "Group Stage (Group C)",
-    "date": {
-      "day": "25",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "03:30 AM",
-    "venue": "Mercedes-Benz Stadium, Atlanta",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 52,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Scotland",
-      "team_1_code": "SCO",
-      "team_2": "Brazil",
-      "team_2_code": "BRA"
-    },
-    "match_type": "Group Stage (Group C)",
-    "date": {
-      "day": "25",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "03:30 AM",
-    "venue": "Hard Rock Stadium, Miami",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 53,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "South Africa",
-      "team_1_code": "RSA",
-      "team_2": "South Korea",
-      "team_2_code": "KOR"
-    },
-    "match_type": "Group Stage (Group A)",
-    "date": {
-      "day": "25",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "06:30 AM",
-    "venue": "Estadio BBVA, Monterrey",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 54,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Czechia",
-      "team_1_code": "CZE",
-      "team_2": "Mexico",
-      "team_2_code": "MEX"
-    },
-    "match_type": "Group Stage (Group A)",
-    "date": {
-      "day": "25",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "06:30 AM",
-    "venue": "Estadio Azteca, Mexico City",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 55,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Curacao",
-      "team_1_code": "CUW",
-      "team_2": "Ivory Coast",
-      "team_2_code": "CIV"
-    },
-    "match_type": "Group Stage (Group E)",
-    "date": {
-      "day": "26",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "01:30 AM",
-    "venue": "Lincoln Financial Field, Philadelphia",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 56,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Ecuador",
-      "team_1_code": "ECU",
-      "team_2": "Germany",
-      "team_2_code": "GER"
-    },
-    "match_type": "Group Stage (Group E)",
-    "date": {
-      "day": "26",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "01:30 AM",
-    "venue": "MetLife Stadium, New Jersey",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 57,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Tunisia",
-      "team_1_code": "TUN",
-      "team_2": "Netherlands",
-      "team_2_code": "NED"
-    },
-    "match_type": "Group Stage (Group F)",
-    "date": {
-      "day": "26",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "04:30 AM",
-    "venue": "Arrowhead Stadium, Kansas City",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 58,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Japan",
-      "team_1_code": "JPN",
-      "team_2": "Sweden",
-      "team_2_code": "SWE"
-    },
-    "match_type": "Group Stage (Group F)",
-    "date": {
-      "day": "26",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "04:30 AM",
-    "venue": "AT&T Stadium, Arlington",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 59,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Turkey",
-      "team_1_code": "TUR",
-      "team_2": "USA",
-      "team_2_code": "USA"
-    },
-    "match_type": "Group Stage (Group D)",
-    "date": {
-      "day": "26",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "07:30 AM",
-    "venue": "SoFi Stadium, Los Angeles",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 60,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Paraguay",
-      "team_1_code": "PAR",
-      "team_2": "Australia",
-      "team_2_code": "AUS"
-    },
-    "match_type": "Group Stage (Group D)",
-    "date": {
-      "day": "26",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "07:30 AM",
-    "venue": "Levi's Stadium, Santa Clara",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 61,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Norway",
-      "team_1_code": "NOR",
-      "team_2": "France",
-      "team_2_code": "FRA"
-    },
-    "match_type": "Group Stage (Group I)",
-    "date": {
-      "day": "27",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "12:30 AM",
-    "venue": "Gillette Stadium, Foxborough",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 62,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Senegal",
-      "team_1_code": "SEN",
-      "team_2": "Iraq",
-      "team_2_code": "IRQ"
-    },
-    "match_type": "Group Stage (Group I)",
-    "date": {
-      "day": "27",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "12:30 AM",
-    "venue": "BMO Field, Toronto",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 63,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Cape Verde",
-      "team_1_code": "CPV",
-      "team_2": "Saudi Arabia",
-      "team_2_code": "KSA"
-    },
-    "match_type": "Group Stage (Group H)",
-    "date": {
-      "day": "27",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "05:30 AM",
-    "venue": "NRG Stadium, Houston",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 64,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Uruguay",
-      "team_1_code": "URU",
-      "team_2": "Spain",
-      "team_2_code": "ESP"
-    },
-    "match_type": "Group Stage (Group H)",
-    "date": {
-      "day": "27",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "05:30 AM",
-    "venue": "Estadio Akron, Guadalajara",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 65,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "New Zealand",
-      "team_1_code": "NZL",
-      "team_2": "Belgium",
-      "team_2_code": "BEL"
-    },
-    "match_type": "Group Stage (Group G)",
-    "date": {
-      "day": "27",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "08:30 AM",
-    "venue": "BC Place, Vancouver",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 66,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Egypt",
-      "team_1_code": "EGY",
-      "team_2": "Iran",
-      "team_2_code": "IRN"
-    },
-    "match_type": "Group Stage (Group G)",
-    "date": {
-      "day": "27",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "08:30 AM",
-    "venue": "Lumen Field, Seattle",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 67,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Panama",
-      "team_1_code": "PAN",
-      "team_2": "England",
-      "team_2_code": "ENG"
-    },
-    "match_type": "Group Stage (Group L)",
-    "date": {
-      "day": "28",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "02:30 AM",
-    "venue": "MetLife Stadium, New Jersey",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 68,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Croatia",
-      "team_1_code": "CRO",
-      "team_2": "Ghana",
-      "team_2_code": "GHA"
-    },
-    "match_type": "Group Stage (Group L)",
-    "date": {
-      "day": "28",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "02:30 AM",
-    "venue": "Lincoln Financial Field, Philadelphia",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 69,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Colombia",
-      "team_1_code": "COL",
-      "team_2": "Portugal",
-      "team_2_code": "POR"
-    },
-    "match_type": "Group Stage (Group K)",
-    "date": {
-      "day": "28",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "05:00 AM",
-    "venue": "Hard Rock Stadium, Miami",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 70,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "DR Congo",
-      "team_1_code": "COD",
-      "team_2": "Uzbekistan",
-      "team_2_code": "UZB"
-    },
-    "match_type": "Group Stage (Group K)",
-    "date": {
-      "day": "28",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "05:00 AM",
-    "venue": "Mercedes-Benz Stadium, Atlanta",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 71,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Algeria",
-      "team_1_code": "ALG",
-      "team_2": "Austria",
-      "team_2_code": "AUT"
-    },
-    "match_type": "Group Stage (Group J)",
-    "date": {
-      "day": "28",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "07:30 AM",
-    "venue": "Arrowhead Stadium, Kansas City",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
-  },
-  {
-    "match_id": 72,
-    "series_name": "FIFA World Cup 2026",
-    "teams": {
-      "team_1": "Jordan",
-      "team_1_code": "JOR",
-      "team_2": "Argentina",
-      "team_2_code": "ARG"
-    },
-    "match_type": "Group Stage (Group J)",
-    "date": {
-      "day": "28",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "07:30 AM",
-    "venue": "AT&T Stadium, Arlington",
-    "tv_channels": ["BTV", "Somoy TV", "T Sports", "Toffee", "Bioscope"]
+    "tv_channels": ["T Sports", "BTV", "Somoy TV", "Toffee", "Bioscope"]
   }
 ]
